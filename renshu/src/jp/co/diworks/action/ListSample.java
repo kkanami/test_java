@@ -10,7 +10,7 @@ public class ListSample {
 
 
 		//値の記憶はaddメソッドを使用
-		list.add("1");
+		list.add("1"); //インデックス０スタート
 		list.add("2");
 		list.add("3");
 		list.add("4");
